@@ -9,10 +9,12 @@ They're back and they're badder than ever! Faster, stronger and with all new mov
 
 Cover your head as Blanka dives at you from above and hear your neck crack as Zangief hits you with the Turbo Spinning Clothesline. Stare in disbelief as Dhalsim disappears before your eyes and Chun Li unleashes her blazing fireball! Watch in awe as Sagat fights Sagat and Ryu does a Hurricane Kick in mid-air! Survive all this and you may live long enough to become the greatest Street Fighter ever!</desc>
 		<image>~/.emulationstation/downloaded_images/snes/Street Fighter II Turbo-image.jpg</image>
+		<rating>0</rating>
 		<releasedate>19930710T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Fighting</genre>
 		<players>2</players>
+		<kidgame>true</kidgame>
 	</game>
 </gameList>

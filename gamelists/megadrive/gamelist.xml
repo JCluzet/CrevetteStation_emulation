@@ -2,12 +2,18 @@
 <gameList>
 	<game>
 		<path>./Sonic The Hedgehog (USA, Europe).md</path>
-		<name>Sonic the Hedgehog 2 (JPN)</name>
+		<name>Sonic &amp; Knuckles + Sonic the Hedgehog 3</name>
+		<desc>Sonic &amp; Knuckles features Sega's "lock-on technology" that when combined with Sonic the Hedgehog 3, allows players to access Sonic the Hedgehog 3 as Sega originally intended, dubbed Sonic 3 &amp; Knuckles. 
+All Zones from both Sonic the Hedgehog 3 and Sonic &amp; Knuckles are present, bringing the total up to 14. Sonic the Hedgehog 3's Competition Mode also makes a return.
+Knuckles is now able to explore Zones from Sonic the Hedgehog 3, allowing him to access routes that were previously inaccessible. Tails is now also able to explore Zones present in Sonic &amp; Knuckles, whether alone or alongside Sonic.
+In addition to the Chaos Emeralds, Sonic 3 &amp; Knuckles introduces Super Emeralds, which when collected allow for Sonic and Knuckles to access new "Hyper" forms, as well as give Tails his own "Super" form that he previously lacked. 
+The Data Select now features eight save slots instead of six. Extra lives and continues are now tracked alongside Zone progress and any collected Emeralds.</desc>
 		<image>~/.emulationstation/downloaded_images/megadrive/Sonic The Hedgehog (USA, Europe)-image.jpg</image>
-		<releasedate>19921121T000000</releasedate>
-		<developer>Sonic Team</developer>
+		<rating>0</rating>
+		<releasedate>19941018T000000</releasedate>
+		<developer>Sega</developer>
 		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
+		<genre>Action, Adventure, Platform, Virtual Console</genre>
+		<kidgame>true</kidgame>
 	</game>
 </gameList>

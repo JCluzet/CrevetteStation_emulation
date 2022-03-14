@@ -18,20 +18,26 @@
 		<name>Snake Rattle n Roll</name>
 		<desc>It's a race to the moon! But first you must travel through 11 levels of adventure. Hurtling anvils, exploding Nibbley Pibbleys, flying carpets, ferocious 3-D terrain, plus BIGFOOT and more! The action is non-stop. The challenge is terrific. Help Rattle and Roll, the two snakes, make their way up the perilous mountain. Gobble up Nibbley Pibbleys to gain enough weight to advance to the next level. Defeat enemies while you gather points, food, and extra lives along the way. Play alone or with a friend, and get ready to Snake Rattle N Roll.</desc>
 		<image>~/.emulationstation/downloaded_images/nes/Snake-image.jpg</image>
+		<rating>0</rating>
 		<releasedate>19900701T000000</releasedate>
 		<developer>Rare, Ltd.</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action, Platform</genre>
 		<players>2</players>
+		<kidgame>true</kidgame>
 	</game>
 	<game>
 		<path>./Super Mario Bros.nes</path>
-		<name>Super Mario Bros (2 Player Hack)</name>
-		<desc>Super Mario Bros 2 Player Hack</desc>
+		<name>Super Mario Bros. (2-Player Hack)</name>
+		<desc>This is a hack of the original Super Mario Bros. that features both players simultaniously playing the game rather than taking turns.  It's great to play with a buddy, and a lot more fun!</desc>
 		<image>~/.emulationstation/downloaded_images/nes/Super Mario Bros-image.jpg</image>
-		<releasedate>19700101T010000</releasedate>
-		<genre>Platform</genre>
+		<rating>0</rating>
+		<releasedate>20181210T000000</releasedate>
+		<developer>ROM Hack</developer>
+		<publisher>Romhacking.net</publisher>
+		<genre>Action, Platform, Unofficial</genre>
 		<players>2</players>
+		<kidgame>true</kidgame>
 	</game>
 	<game>
 		<path>./Tetris (J).nes</path>
@@ -40,9 +46,11 @@
 
 All of the tetrominoes are capable of single and double clears. I, J, and L are able to clear triples. Only the I tetromino has the capacity to clear four lines simultaneously, and this is referred to as a "tetris". (This may vary depending on the rotation and compensation rules of each specific Tetris implementation. For instance, in the Super Rotation System used in most recent implementations, called "Easy Spin" in Tetris Worlds, certain rare situations allow T, S and Z to 'snap' into tight spots and clear triples.)</desc>
 		<image>~/.emulationstation/downloaded_images/nes/Tetris (J)-image.jpg</image>
+		<rating>0</rating>
 		<releasedate>19891101T000000</releasedate>
 		<developer>Nintendo R&amp;D1</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Puzzle</genre>
+		<kidgame>true</kidgame>
 	</game>
 </gameList>
