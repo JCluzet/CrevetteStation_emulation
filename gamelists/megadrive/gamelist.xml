@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Sonic The Hedgehog (USA, Europe).md</path>
+		<name>Sonic the Hedgehog 2 (JPN)</name>
+		<image>~/.emulationstation/downloaded_images/megadrive/Sonic The Hedgehog (USA, Europe)-image.jpg</image>
+		<releasedate>19921121T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+</gameList>

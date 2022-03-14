@@ -1,0 +1,186 @@
+Mar 14 14:09:16 lvl2: 	EmulationStation - v2.10.1rp, built Dec 26 2021 - 16:25:37
+Mar 14 14:09:16 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamenames.xml"...
+Mar 14 14:09:16 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamebioses.xml"...
+Mar 14 14:09:16 lvl2: 	Parsing XML file "/opt/retropie/supplementary/emulationstation/resources/mamedevices.xml"...
+Mar 14 14:09:16 lvl2: 	Creating window...
+Mar 14 14:09:18 lvl2: 	Created window successfully.
+Mar 14 14:09:18 lvl2: 	GL vendor:   Broadcom
+Mar 14 14:09:18 lvl2: 	GL renderer: V3D 4.2
+Mar 14 14:09:18 lvl2: 	GL version:  2.1 Mesa 19.3.2
+Mar 14 14:09:18 lvl2: 	Checking available OpenGL extensions...
+Mar 14 14:09:18 lvl2: 	 ARB_texture_non_power_of_two: ok
+Mar 14 14:09:18 lvl2: 	Added known joystick DragonRise Inc.   Generic   USB  Joystick   (instance ID: 0, device index: 0)
+Mar 14 14:09:18 lvl2: 	Added known joystick DragonRise inc.   Generic   USB  Joystick   (instance ID: 1, device index: 1)
+Mar 14 14:09:18 lvl2: 	Loading system config file /etc/emulationstation/es_systems.cfg...
+Mar 14 14:09:18 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/amstradcpc" is not a directory!
+Mar 14 14:09:18 lvl1: 	System "amstradcpc" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/arcade" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "arcade" has no games! Ignoring it.
+Mar 14 14:09:19 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"...
+Mar 14 14:09:19 lvl0: 	Error parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"!
+	No document element found
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/atari5200" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "atari5200" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/atari7800" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "atari7800" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/atari800" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "atari800" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/atarilynx" is not a directory!
+Mar 14 14:09:19 lvl1: 	  Warning from theme "/etc/emulationstation/themes/crevettetheme/atarilynx/theme.xml"
+    could not find file "./logo.png" (which resolved to "/etc/emulationstation/themes/crevettetheme/atarilynx/logo.png") 
+Mar 14 14:09:19 lvl1: 	  Warning from theme "/etc/emulationstation/themes/crevettetheme/atarilynx/theme.xml"
+    could not find file "./logo.png" (which resolved to "/etc/emulationstation/themes/crevettetheme/atarilynx/logo.png") 
+Mar 14 14:09:19 lvl1: 	  Warning from theme "/etc/emulationstation/themes/crevettetheme/atarilynx/theme.xml"
+    could not find file "./logo.png" (which resolved to "/etc/emulationstation/themes/crevettetheme/atarilynx/logo.png") 
+Mar 14 14:09:19 lvl1: 	System "atarilynx" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/channelf" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "channelf" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/coleco" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "coleco" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/fba" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "fba" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/fds" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "fds" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/gamegear" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "gamegear" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/gb" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "gb" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/gba" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "gba" has no games! Ignoring it.
+Mar 14 14:09:19 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/gbc" is not a directory!
+Mar 14 14:09:19 lvl1: 	System "gbc" has no games! Ignoring it.
+Mar 14 14:09:20 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/mame-libretro" is not a directory!
+Mar 14 14:09:20 lvl1: 	System "mame-libretro" has no games! Ignoring it.
+Mar 14 14:09:20 lvl1: 	System "mastersystem" has no games! Ignoring it.
+Mar 14 14:09:20 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/megadrive/gamelist.xml"...
+Mar 14 14:09:20 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/msx" is not a directory!
+Mar 14 14:09:20 lvl1: 	System "msx" has no games! Ignoring it.
+Mar 14 14:09:20 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/n64/gamelist.xml"...
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/roms/n64/Mario Kart 64.n64" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/roms/n64/Donkey Kong 64.n64" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/roms/n64/Rayman 2.n64" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/neogeo" is not a directory!
+Mar 14 14:09:20 lvl1: 	System "neogeo" has no games! Ignoring it.
+Mar 14 14:09:20 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/nes/gamelist.xml"...
+Mar 14 14:09:20 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/ngp" is not a directory!
+Mar 14 14:09:20 lvl1: 	System "ngp" has no games! Ignoring it.
+Mar 14 14:09:20 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/ngpc" is not a directory!
+Mar 14 14:09:20 lvl1: 	System "ngpc" has no games! Ignoring it.
+Mar 14 14:09:20 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/pcengine" is not a directory!
+Mar 14 14:09:20 lvl1: 	System "pcengine" has no games! Ignoring it.
+Mar 14 14:09:20 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/psx" is not a directory!
+Mar 14 14:09:20 lvl1: 	System "psx" has no games! Ignoring it.
+Mar 14 14:09:20 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/retropie/gamelist.xml"...
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/retropiemenu/audiosettings.rp" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/retropiemenu/configedit.rp" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/retropiemenu/esthemes.rp" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/retropiemenu/filemanager.rp" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/retropiemenu/raspiconfig.rp" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/retropiemenu/retroarch.rp" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/retropiemenu/retronetplay.rp" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/retropiemenu/rpsetup.rp" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/retropiemenu/runcommand.rp" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/retropiemenu/showip.rp" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	File "/home/pi/RetroPie/retropiemenu/splashscreen.rp" does not exist! Ignoring.
+Mar 14 14:09:20 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/sega32x" is not a directory!
+Mar 14 14:09:20 lvl1: 	System "sega32x" has no games! Ignoring it.
+Mar 14 14:09:20 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/segacd" is not a directory!
+Mar 14 14:09:20 lvl1: 	System "segacd" has no games! Ignoring it.
+Mar 14 14:09:21 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/sg-1000" is not a directory!
+Mar 14 14:09:21 lvl1: 	  Warning from theme "/etc/emulationstation/themes/crevettetheme/sg-1000/theme.xml"
+    could not find file "./logo.png" (which resolved to "/etc/emulationstation/themes/crevettetheme/sg-1000/logo.png") 
+Mar 14 14:09:21 lvl1: 	  Warning from theme "/etc/emulationstation/themes/crevettetheme/sg-1000/theme.xml"
+    could not find file "./logo.png" (which resolved to "/etc/emulationstation/themes/crevettetheme/sg-1000/logo.png") 
+Mar 14 14:09:21 lvl1: 	  Warning from theme "/etc/emulationstation/themes/crevettetheme/sg-1000/theme.xml"
+    could not find file "./logo.png" (which resolved to "/etc/emulationstation/themes/crevettetheme/sg-1000/logo.png") 
+Mar 14 14:09:21 lvl1: 	System "sg-1000" has no games! Ignoring it.
+Mar 14 14:09:21 lvl2: 	Parsing XML file "/home/pi/.emulationstation/gamelists/snes/gamelist.xml"...
+Mar 14 14:09:21 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/vectrex" is not a directory!
+Mar 14 14:09:21 lvl1: 	System "vectrex" has no games! Ignoring it.
+Mar 14 14:09:21 lvl1: 	Error - folder with path "/home/pi/RetroPie/roms/zxspectrum" is not a directory!
+Mar 14 14:09:21 lvl1: 	System "zxspectrum" has no games! Ignoring it.
+Mar 14 14:09:22 lvl2: 	Added known joystick DragonRise Inc.   Generic   USB  Joystick   (instance ID: 0, device index: 0)
+Mar 14 14:09:22 lvl2: 	Added known joystick DragonRise inc.   Generic   USB  Joystick   (instance ID: 1, device index: 1)
+Mar 14 14:10:52 lvl2: 	 req sound [basic.launch]
+Mar 14 14:10:52 lvl2: 	Attempting to launch game...
+Mar 14 14:10:53 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
+Mar 14 14:10:53 lvl2: 		/opt/retropie/supplementary/runcommand/runcommand.sh 0 _SYS_ atari2600 /home/pi/RetroPie/roms/atari2600/Dragster.a26
+Mar 14 14:14:19 lvl2: 	Creating window...
+Mar 14 14:14:19 lvl2: 	Created window successfully.
+Mar 14 14:14:20 lvl2: 	GL vendor:   Broadcom
+Mar 14 14:14:20 lvl2: 	GL renderer: V3D 4.2
+Mar 14 14:14:20 lvl2: 	GL version:  2.1 Mesa 19.3.2
+Mar 14 14:14:20 lvl2: 	Checking available OpenGL extensions...
+Mar 14 14:14:20 lvl2: 	 ARB_texture_non_power_of_two: ok
+Mar 14 14:14:20 lvl2: 	Added known joystick DragonRise Inc.   Generic   USB  Joystick   (instance ID: 2, device index: 0)
+Mar 14 14:14:20 lvl2: 	Added known joystick DragonRise inc.   Generic   USB  Joystick   (instance ID: 3, device index: 1)
+Mar 14 14:14:20 lvl0: 	VolumeControl::init() - Failed to find mixer elements!
+Mar 14 14:14:20 lvl2: 	Added known joystick DragonRise Inc.   Generic   USB  Joystick   (instance ID: 2, device index: 0)
+Mar 14 14:14:20 lvl2: 	Added known joystick DragonRise inc.   Generic   USB  Joystick   (instance ID: 3, device index: 1)
+Mar 14 14:14:45 lvl0: 	Error parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"!
+	No document element found
+Mar 14 14:14:53 lvl0: 	Error parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"!
+	No document element found
+Mar 14 14:14:59 lvl0: 	Error parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"!
+	No document element found
+Mar 14 14:15:06 lvl0: 	Error parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"!
+	No document element found
+Mar 14 14:15:13 lvl0: 	Error parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"!
+	No document element found
+Mar 14 14:15:15 lvl0: 	Error parsing XML file "/home/pi/.emulationstation/gamelists/atari2600/gamelist.xml"!
+	No document element found
+Mar 14 14:15:18 lvl2: 	Added/Updated 1 entities in '/home/pi/.emulationstation/gamelists/n64/gamelist.xml'
+Mar 14 14:15:18 lvl2: 	Saved gamelist.xml for system "n64" in 0 ms
+Mar 14 14:15:20 lvl2: 	Added/Updated 2 entities in '/home/pi/.emulationstation/gamelists/n64/gamelist.xml'
+Mar 14 14:15:20 lvl2: 	Saved gamelist.xml for system "n64" in 0 ms
+Mar 14 14:15:26 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:15:26 lvl2: 	   (missing)
+Mar 14 14:15:34 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:15:34 lvl2: 	   (missing)
+Mar 14 14:15:43 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:15:43 lvl2: 	   (missing)
+Mar 14 14:15:50 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:15:50 lvl2: 	   (missing)
+Mar 14 14:16:13 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:16:13 lvl2: 	   (missing)
+Mar 14 14:16:23 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:16:23 lvl2: 	   (missing)
+Mar 14 14:16:28 lvl2: 	Couldn't find entry in index! RACING
+Mar 14 14:16:28 lvl2: 	Couldn't find entry in index! 2
+Mar 14 14:16:28 lvl2: 	Couldn't find entry in index! ACTIVISION
+Mar 14 14:16:28 lvl2: 	Couldn't find entry in index! ACTIVISION
+Mar 14 14:16:30 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:16:30 lvl2: 	   (missing)
+Mar 14 14:16:36 lvl2: 	Couldn't find entry in index! ATARI
+Mar 14 14:16:36 lvl2: 	Couldn't find entry in index! ATARI, INC.
+Mar 14 14:16:38 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:16:38 lvl2: 	   (missing)
+Mar 14 14:16:44 lvl2: 	Couldn't find entry in index! SHOOTER
+Mar 14 14:16:44 lvl2: 	Couldn't find entry in index! ATARIAGE
+Mar 14 14:16:45 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:16:45 lvl2: 	   (missing)
+Mar 14 14:16:51 lvl2: 	Couldn't find entry in index! ACTION
+Mar 14 14:16:53 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:16:53 lvl2: 	   (missing)
+Mar 14 14:17:00 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:17:00 lvl2: 	   (missing)
+Mar 14 14:17:08 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:17:08 lvl2: 	   (missing)
+Mar 14 14:17:14 lvl2: 	Couldn't find entry in index! SPORTS
+Mar 14 14:17:14 lvl2: 	Couldn't find entry in index! SEARS, ROEBUCK AND CO.
+Mar 14 14:17:17 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:17:17 lvl2: 	   (missing)
+Mar 14 14:17:26 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:17:26 lvl2: 	   (missing)
+Mar 14 14:17:32 lvl2: 	Couldn't find entry in index! ACTION, ADVENTURE, RACING
+Mar 14 14:17:32 lvl2: 	Couldn't find entry in index! RARE, LTD.
+Mar 14 14:17:34 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:17:34 lvl2: 	   (missing)
+Mar 14 14:17:44 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:17:44 lvl2: 	   (missing)
+Mar 14 14:17:51 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:17:51 lvl2: 	   (missing)
+Mar 14 14:17:59 lvl2: 	 req sound [detailed.menuOpen]
+Mar 14 14:17:59 lvl2: 	   (missing)
+Mar 14 14:18:05 lvl2: 	Couldn't find entry in index! ACTION, ADVENTURE, ROLE-PLAYING, PUZZLE, PLATFORM
+Mar 14 14:18:05 lvl2: 	Couldn't find entry in index! NINTENDO EAD
